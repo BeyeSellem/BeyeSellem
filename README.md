@@ -7,7 +7,7 @@ Software Engineer passionné par le web et le logiciel, j’évolue principaleme
 
 ## 🚀 Compétences principales  
 - **Frontend** : React (Next.js), Vue.js 3, Flutter  
-- **Backend** : Java Spring, NodeJS, PostgreSQL  
+- **Backend** : Java Spring, NodeJS, Backend BAAS  
 - **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk  
 - **Architecture** : Optimisation et refonte de systèmes  
 - **Agilité** : Participation aux revues de code et mentorat  
@@ -35,7 +35,7 @@ Passionate Software Engineer specializing in web and software development. I mai
 
 ## 🚀 Main Skills  
 - **Frontend** : React (Next.js), Vue.js 3, Flutter  
-- **Backend** : Java Spring, NodeJS, PostgreSQL  
+- **Backend** : Java Spring, NodeJS, Backend BAAS  
 - **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk 
 - **Architecture**: Optimization and system redesign  
 - **Agility**: Code reviews and mentorship  
@@ -51,6 +51,6 @@ Passionate Software Engineer specializing in web and software development. I mai
 🔸 Reaching **Mid-Senior** level in development  
 
 ## 📫 Contact  
-📧 [Professional Email]  
-💼 [LinkedIn]  
+📧 [Professional Email] (sellembeye@gmail.com)  
+💼 [LinkedIn]  (https://www.linkedin.com/in/sellem-beye )
 🚀 [Portfolio (if available)]  
