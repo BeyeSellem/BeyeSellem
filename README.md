@@ -24,7 +24,7 @@ Ingénieur en Informatique passionné par le web et le logiciel, j’évolue pri
 
 ## 📫 Me contacter  
 📧 [sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
-💼 [https://www.linkedin.com/in/sellem-beye](https://www.linkedin.com/in/sellem-beye)
+💼 [linkedin](https://www.linkedin.com/in/sellem-beye)
 
 ---
 
@@ -52,5 +52,5 @@ Passionate Software Engineer specializing in web and software development. I mai
 
 ## 📫 Contact  
 📧 [sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
-💼 [https://www.linkedin.com/in/sellem-beye](https://www.linkedin.com/in/sellem-beye)
+💼 [linkedin](https://www.linkedin.com/in/sellem-beye)
   
