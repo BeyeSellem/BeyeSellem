@@ -1,16 +1,50 @@
-## Hi there 👋
+## 🇫🇷 À propos de moi  
+Software Engineer passionné par le web et le logiciel, j’évolue principalement sur des technologies **React, Next.js, Vue.js 3, Java Spring, Cloud**, avec un fort intérêt pour l’**optimisation des performances** et les **architectures modernes**.  
 
-<!--
-**BeyeSellem/BeyeSellem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Compétences principales  
+- **Frontend** : React (Next.js), Vue.js 3, Flutter  
+- **Backend** : Java Spring, NodeJS, PostgreSQL  
+- **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk  
+- **Architecture** : Optimisation et refonte de systèmes  
+- **Agilité** : Participation aux revues de code et mentorat  
 
-Here are some ideas to get you started:
+## 📌 Projets en cours  
+🔹 **Développement d’une plateforme SaaS** – Solution web intégrant l’IA pour la création et l’automatisation de contenus audio  
+🔹 **Refonte et migration d’applications** – Passage d’anciennes architectures vers des stacks modernes basées sur **Vue.js 3 et Java Spring**  
+🔹 **Exploration de Next.js** – Approfondissement des fonctionnalités avancées pour des applications performantes et scalables  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objectifs actuels  
+🔸 Renforcer mon expertise en **architecture avancée et optimisation des performances**  
+🔸 Améliorer mes compétences en **communication technique et résolution de problèmes complexes**  
+🔸 Atteindre un niveau **Mid-Senior** en développement  
+
+## 📫 Me contacter  
+📧 [Email professionnel] (sellembeye@gmail.com) 
+💼 [LinkedIn] (https://www.linkedin.com/in/sellem-beye ) 
+
+---
+
+## 🇬🇧 About Me  
+Passionate Software Engineer specializing in web and software development. I mainly work with **React, Next.js, Vue.js 3, Java Spring, Cloud**, with a strong focus on **performance optimization** and **modern architectures**.  
+
+## 🚀 Main Skills  
+- **Frontend** : React (Next.js), Vue.js 3, Flutter  
+- **Backend** : Java Spring, NodeJS, PostgreSQL  
+- **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk 
+- **Architecture**: Optimization and system redesign  
+- **Agility**: Code reviews and mentorship  
+
+## 📌 Current Projects  
+🔹 **Developing a SaaS platform** – AI-powered solution for automated audio content creation  
+🔹 **Application migration and modernization** – Transitioning legacy architectures to modern stacks using **Vue.js 3 and Java Spring**  
+🔹 **Exploring Next.js** – Deep diving into advanced features for high-performance, scalable applications  
+
+## 🎯 Current Goals  
+🔸 Strengthening expertise in **advanced architecture and performance optimization**  
+🔸 Improving skills in **technical communication and complex problem-solving**  
+🔸 Reaching **Mid-Senior** level in development  
+
+## 📫 Contact  
+📧 [Professional Email]  
+💼 [LinkedIn]  
+🚀 [Portfolio (if available)]  
