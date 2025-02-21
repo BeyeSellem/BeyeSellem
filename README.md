@@ -3,7 +3,7 @@
 
 ## Français
 ## À propos de moi  
-Software Engineer passionné par le web et le logiciel, j’évolue principalement sur des technologies **React, Next.js, Vue.js 3, Java Spring, Cloud**, avec un fort intérêt pour l’**optimisation des performances** et les **architectures modernes**.  
+Ingénieur en Informatique passionné par le web et le logiciel, j’évolue principalement sur des technologies **React, Next.js, Vue.js 3, Java Spring, Cloud**, avec un fort intérêt pour l’**optimisation des performances** et les **architectures modernes**.  
 
 ## 🚀 Compétences principales  
 - **Frontend** : React (Next.js), Vue.js 3, Flutter  
