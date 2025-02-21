@@ -51,6 +51,6 @@ Passionate Software Engineer specializing in web and software development. I mai
 🔸 Reaching **Mid-Senior** level in development  
 
 ## 📫 Contact  
-📧 [Professional Email] (sellembeye@gmail.com)  
-💼 [LinkedIn]  (https://www.linkedin.com/in/sellem-beye )
-🚀 [Portfolio (if available)]  
+📧 [sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
+💼 [https://www.linkedin.com/in/sellem-beye](https://www.linkedin.com/in/sellem-beye)
+  
