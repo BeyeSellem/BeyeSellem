@@ -23,8 +23,8 @@ Ingénieur en Informatique passionné par le web et le logiciel, j’évolue pri
 🔸 Atteindre un niveau **Mid-Senior** en développement  
 
 ## 📫 Me contacter  
-📧 [Email professionnel] (sellembeye@gmail.com) 
-💼 [LinkedIn] (https://www.linkedin.com/in/sellem-beye ) 
+[sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
+💼 [https://www.linkedin.com/in/sellem-beye](https://www.linkedin.com/in/sellem-beye)
 
 ---
 
