@@ -1,7 +1,7 @@
 ## 🌍 Choisissez votre langue / Choose your language
-🇬🇧 **[English](#english)** | 🇫🇷 **[Français](#français)**
+**[English](#english)** | **[Français](#français)**
 
-## 🇫🇷 Français
+## Français
 ## À propos de moi  
 Software Engineer passionné par le web et le logiciel, j’évolue principalement sur des technologies **React, Next.js, Vue.js 3, Java Spring, Cloud**, avec un fort intérêt pour l’**optimisation des performances** et les **architectures modernes**.  
 
@@ -28,7 +28,7 @@ Software Engineer passionné par le web et le logiciel, j’évolue principaleme
 
 ---
 
-## 🇬🇧 English
+## English
 
 ## About Me  
 Passionate Software Engineer specializing in web and software development. I mainly work with **React, Next.js, Vue.js 3, Java Spring, Cloud**, with a strong focus on **performance optimization** and **modern architectures**.  
