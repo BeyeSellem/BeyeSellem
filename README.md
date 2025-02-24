@@ -20,7 +20,7 @@ Ingénieur en Informatique passionné par le web et le logiciel, j’évolue pri
 ## 🎯 Objectifs actuels  
 🔸 Renforcer mon expertise en **architecture avancée et optimisation des performances**  
 🔸 Améliorer mes compétences en **communication technique et résolution de problèmes complexes**  
-🔸 Cultiver des compétences avancées en développement pour atteindre un niveau **Mid-Senior**, avec un accent sur l'excellence technique et la prise de leadership dans les projets  en développement  
+🔸 Développer une expertise avancée en développement, en mettant l’accent sur l’excellence technique et en assumant un rôle clé et actif dans les projets.
 
 ## 📫 Me contacter  
 📧 [sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
@@ -48,7 +48,7 @@ Passionate Software Engineer specializing in web and software development. I mai
 ## 🎯 Current Goals  
 🔸 Strengthening expertise in **advanced architecture and performance optimization**  
 🔸 Improving skills in **technical communication and complex problem-solving**  
-🔸 Cultivate advanced development skills to reach a **Mid-Senior** level, with a focus on technical excellence and taking leadership in projects.  
+🔸 Develop advanced expertise in development, focusing on technical excellence and taking on **greater responsibilities** in projects.  
 
 ## 📫 Contact  
 📧 [sellembeye@gmail.com](mailto:sellembeye@gmail.com) 
