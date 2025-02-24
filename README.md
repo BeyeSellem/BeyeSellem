@@ -6,7 +6,7 @@
 Ingénieur en Informatique passionné par le web et le logiciel, j’évolue principalement sur des technologies **React, Next.js, Vue.js 3, Java Spring, Cloud**, avec un fort intérêt pour l’**optimisation des performances** et les **architectures modernes**.  
 
 ## 🚀 Compétences principales  
-- **Frontend** : React (Next.js), Angular, Vue.js 3, Flutter  
+- **Frontend** : React (Next.js), Angular, Vue.js, Flutter  
 - **Backend** : Java Spring, NodeJS, Backend BAAS  
 - **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk  
 - **Architecture** : Optimisation et refonte de systèmes  
@@ -34,7 +34,7 @@ Ingénieur en Informatique passionné par le web et le logiciel, j’évolue pri
 Passionate Software Engineer specializing in web and software development. I mainly work with **React, Next.js, Vue.js 3, Java Spring, Cloud**, with a strong focus on **performance optimization** and **modern architectures**.  
 
 ## 🚀 Main Skills  
-- **Frontend** : React (Next.js), Angular, Vue.js 3, Flutter  
+- **Frontend** : React (Next.js), Angular, Vue.js, Flutter  
 - **Backend** : Java Spring, NodeJS, Backend BAAS  
 - **SaaS & Cloud** : AWS, Appwrite, Convex, Clerk 
 - **Architecture**: Optimization and system redesign  
